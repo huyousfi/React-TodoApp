@@ -21,7 +21,7 @@ import { useState } from 'react'
 // }
 
 
-export default App
+// export default App
 
 
 // counter second stage with usestate
@@ -128,6 +128,10 @@ export default App
 // }
 // export default todoApp
 
+
+// ================================================================================
+// -------------------------------ToDo App stage 3 with edit and delete functionality
+//================================================================================
 
 
 function todoApp() {
